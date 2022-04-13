@@ -1,0 +1,67 @@
+
+/* Paleta colores: primario oscuro:#512DA8 secundario:#E040FB gris:#D1C4E9 negro:#212121 primario:#673AB7 #9600FF texto secundario#757575 texto:#FFFFFF color de división:#BDBDBD */
+
+@import url('https://fonts.googleapis.com/css2?family=Laila&family=Tenor+Sans&display=swap');
+
+.background1 {
+    background-image: url('./imagenes/Background\ brain1.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.background2 {
+    background-image: url(./imagenes/Neuro\ cerebro.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.background3 {
+    background-image: url(./imagenes/neruscience\ students.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.maincontent {
+    font-family: 'Tenor Sans', 'sans-serif';
+    color: rgb(241, 236, 165);
+    font-weight: bold;
+    font-size: 270%;
+}
+
+.maintext {
+    font-family: 'Tenor Sans', 'sans-serif';
+    color: rgb(241, 236, 165);
+    font-size: 150%;
+}
+
+.portadas {
+    width: 25%;
+    height: 25%;
+}
+
+h1 {
+    font-family: 'Tenor Sans', 'sans-serif';
+    color: rgb(241, 236, 165);
+    font-size: 250%;
+}
+
+h2 {
+    font-family: 'Tenor Sans', 'sans-serif';
+    color: rgb(241, 236, 165);
+    font-size: 180%;
+}
+
+a {
+    font-family: 'Tenor Sans', 'sans-serif';
+    color: rgb(241, 236, 165);
+    font-weight: bold;
+    font-size: 180%;
+}
+
+ul li a img {
+    width: 4%;
+    height: 4%;
+}
+
